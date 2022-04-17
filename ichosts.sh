@@ -1,6 +1,6 @@
 #!/bin/bash
 # ichhosts.sh 
-# By Shaun Melendy smelendy@umw.edu
+# By smelendy
 # Purpose creates formated Icinga hosts
 
 exec<$1
